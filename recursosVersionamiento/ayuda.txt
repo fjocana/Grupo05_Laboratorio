@@ -1,0 +1,4 @@
+Utilizar el jdk 15 y el mysql 8.0.33
+Se cambia el jdk en tools, options, java, maven.
+Utilizar Java EE Versión 7 Web
+Utilizar NetBeans 18
